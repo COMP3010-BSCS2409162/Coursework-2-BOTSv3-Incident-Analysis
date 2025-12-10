@@ -18,11 +18,11 @@ This repository contains:
   - CloudTrail and S3 Access Logs
 
 **Repository Structure**
-report/               -> Final PDF Report
-spl_queries/          -> All SPL queries for guided questions
-screenshots/          -> Evidence screenshots
-video/                -> Presentation recording
-README.md             -> Project documentation
+report/ ->Final PDF Report
+spl_queries/ -> All SPL queries for guided questions
+screenshots/ -> Evidence screenshots
+video/ -> Presentation recording
+README.md -> Project documentation
 
 **Video Presentation**
   - 
